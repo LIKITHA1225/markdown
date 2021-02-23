@@ -27,10 +27,12 @@
  
  GITHUB(https://github.com/)     
  
- **DATA**     
+ **DATA**
+ 
  |NAME|COLLEGE|BRANCH|
  |--------|------|-------------|
  |ABC|VRSEC|IT|
+ 
  ~~DFGBRRGM JCR~~
  
  -[X] CHECKBOX       
